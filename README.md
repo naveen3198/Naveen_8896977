@@ -1,1 +1,3 @@
-# Naveen_8896977
+Your name: Naveen
+Project title: Lab 3
+Student ID: 8896977
